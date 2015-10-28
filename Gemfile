@@ -63,3 +63,4 @@ group :development, :test do
   # テスト環境のテーブルをきれいにする
   gem 'database_rewinder'
 end
+
